@@ -1,0 +1,3 @@
+/home/seb/projects/nus_ble_client/build/CMakeFiles/nus_ble_client.dir
+/home/seb/projects/nus_ble_client/build/CMakeFiles/edit_cache.dir
+/home/seb/projects/nus_ble_client/build/CMakeFiles/rebuild_cache.dir
